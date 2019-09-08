@@ -1,0 +1,10 @@
+## macOS Cruft
+.DS_Store
+
+##
+public/
+
+## Sublime Text
+*.sublime-project
+*.sublime-workspace
+

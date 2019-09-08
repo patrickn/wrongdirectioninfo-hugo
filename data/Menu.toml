@@ -1,0 +1,19 @@
+[about]
+   Name = "What is the HUMM?"
+   Title = "All about the HUMM"
+   URL = "/humm"
+
+[fails]
+   Name = "Fails Table"
+   Title = "Who had the most fails?"
+   URL = "/fails"
+
+[posts]
+   Name = "Posts"
+   Title = "Show list of posts"
+   URL = "/post"
+
+[tags]
+   Name = "Tags"
+   Title = "Show list of tags"
+   URL = "/tags"
